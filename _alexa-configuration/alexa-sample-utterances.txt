@@ -1,0 +1,68 @@
+DontUnderstand dummy method for unknown request
+AboutJourneyFurther to introduce themselves
+AboutJourneyFurther who they are
+AboutJourneyFurther who are journey further
+AboutJourneyFurther about themselves
+AboutJourneyFurther about us
+WhySentAnEcho why i have been sent an echo
+WhySentAnEcho why i have been sent an amazon echo
+WhySentAnEcho why i have been sent an echo dot
+WhySentAnEcho why i have been sent an amazon echo dot
+WhySentAnEcho why i have been sent an alexa
+WhySentAnEcho why i have been sent this
+WhySentAnEcho why they have sent an echo
+WhySentAnEcho why they have sent an amazon echo
+WhySentAnEcho why they have sent an echo dot
+WhySentAnEcho why they have sent an amazon echo dot
+WhySentAnEcho why they have sent an alexa
+WhySentAnEcho why they have sent an amazon alexa
+WhySentAnEcho why they have sent me an echo
+WhySentAnEcho why they have sent me an amazon echo
+WhySentAnEcho why they have sent me an echo dot
+WhySentAnEcho why they have sent me an amazon echo dot
+WhySentAnEcho why they have sent me an alexa
+WhySentAnEcho why they have sent me an amazon alexa
+WhySentAnEcho why they have sent me this
+WhySentAnEcho what is this
+WhatSkills what skills it has
+WhatSkills what this can do
+WhatSkills what this can tell me
+WhatSkills what questions i can ask
+WhatSkills what questions it can answer
+WhatSkills what questions you can answer
+WhatSkills what i can ask
+WhatSkills what you can do
+WhatSkills about its skills
+WhatSkills about its skill
+Contact how do I get in touch
+Contact how do I contact you
+Contact how do i contact them
+Contact for contact details
+Contact for your contact details
+Contact for their contact details
+Contact for your telephone number
+Contact for your phone number
+Contact for their telephone number
+Contact for their phone number
+Contact for your email address
+Contact for their email address
+Contact how to reach you
+Contact how do i reach you
+Help help
+Help for help
+Help help me
+Help to help me
+DefineTerms to explain {term}
+DefineTerms to define {term}
+DefineTerms what is {term}
+DefineTerms what is a {term}
+DefineTerms what does {term} mean
+DefineTerms about {term}
+CompareTerms what is the difference between {firstterm} and {secondterm}
+CompareTerms the difference between {firstterm} and {secondterm}
+CompareTerms to explain the difference between {firstterm} and {secondterm}
+CompareTerms to compare {firstterm} with {secondterm}
+CompareTerms to compare {firstterm} to {secondterm}
+CompareTerms to compare {firstterm} against {secondterm}
+Stop stop
+Stop cancel

@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "intent": "DontUnderstand"
+    },
+    {
+      "intent": "AboutJourneyFurther"
+    },
+    {
+      "intent": "WhySentAnEcho"
+    },
+    {
+      "intent": "WhatSkills"
+    },
+    {
+      "intent": "Contact"
+    },
+    {
+      "intent": "Help"
+    },
+    {
+      "intent": "Stop"
+    },
+    {
+      "slots": [
+        {
+          "name": "term",
+          "type": "LIST_OF_TERMS"
+        }
+      ],
+      "intent": "DefineTerms"
+    },
+    {
+      "slots": [
+        {
+          "name": "firstterm",
+          "type": "LIST_OF_TERMS"
+        },
+        {
+          "name": "secondterm",
+          "type": "LIST_OF_TERMS"
+        }
+      ],
+      "intent": "CompareTerms"
+    }
+  ]
+}
