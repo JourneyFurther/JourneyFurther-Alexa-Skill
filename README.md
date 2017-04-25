@@ -1,8 +1,7 @@
 ## Journey Further Alexa Skill
 
-This is a custom Amazon Alexa skill for Journey Further.
-It can use used to explain who Journey Further are, and define
-what common acronymns are.
+This is a custom Amazon Alexa skill for biddable media agency Journey Further.
+It can define key terms and acronyms from the world of digital advertising, as well as provide information about ourselves and our contact details.
 
 ## Framework
 
